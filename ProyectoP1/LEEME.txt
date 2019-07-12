@@ -1,0 +1,4 @@
+En ésta carpeta están los archivos python apartir de los cuales se crearon los ejecutables, para que el profesor pueda
+ver cómo están compuestos los códigos en caso de cualquier duda. 
+
+Para la creación de los ejecutables se utilizó pyinstaller desde la consola cmd.
