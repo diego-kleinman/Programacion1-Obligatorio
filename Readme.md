@@ -25,5 +25,5 @@ It comes with user manual and the executable asociated.
 
 #### Knowledge Acquired:
 It´s a project were I deepened my knoledge in python and arduino. Handling of strings, output and input of text files, data process,etc.
-An interesting idea that took me a lot of work but also gave me a great satisfaction.
+An interesting idea that took me a lot of work but also gave me great satisfaction.
 
