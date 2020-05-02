@@ -1,4 +1,4 @@
-#### Resumen del proyecto:
+### Resumen del proyecto:
 En este proyecto se hizo utilizando python y arduino. Conectandolos empleando el puerto serial y la librería PySerial.
 La idea básica es tomar mediciones de temperatura y luminosidad en una diversidad de lugares para posteriormente procesar esos datos y
 los de otros compañeros de clase.
