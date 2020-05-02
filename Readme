@@ -1,0 +1,13 @@
+En este proyecto se hizo utilizando python y arduino. Conectandolos empleando el puerto serie y la librería PySerial.
+
+La idea básica es tomar mediciones de temperatura y luminosidad en una diversidad de lugares para posteriormente procesar esos datos y
+los de otros compañeros de clase.
+
+Se busca conseguir los "mejores lugares" para por ejemplo poner un panel solar.
+
+Es un proyecto en el que pudimos profundizar conocimientos de python y arduino. Manejo de strings, salida y entrada de archivos de texto,
+procesamiento de datos, etc.
+
+Una interesante propuesta que dio mucho trabajo pero también mucha satisfacción.
+
+Viene con un manual de usuario y el ejecutable asociado.
