@@ -17,7 +17,7 @@ Una interesante propuesta que dio mucho trabajo pero también mucha satisfacció
 
 #### Project Resume:
 In this project I utiliced python and arduino. I connected them using the serial port and the PySerial library.
-The basic idea was taking mesurements of temperature and luminosity in a variety of different places, then process that data and data from
+The basic idea was taking mesurements of temperature and luminosity in a variety of different places, then process that data I took and the data from
 other classmates.
 The goal is to find the "best places" if for instance we wanted to put a solar panel.
 
@@ -25,5 +25,5 @@ It comes with user manual and the executable asociated.
 
 #### Knowledge Acquired:
 It´s a project were I deepened my knoledge in python and arduino. Handling of strings, output and input of text files, data process,etc.
-An interesting idea that gave me a lot of work but also a lot of satisfaction.
+An interesting idea that took me a lot of work but also gave me a lot of satisfaction.
 
