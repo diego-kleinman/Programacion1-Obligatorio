@@ -1,4 +1,6 @@
-### Resumen del proyecto:
+## Español/Spanish:
+
+#### Resumen del proyecto:
 En este proyecto se hizo utilizando python y arduino. Conectandolos empleando el puerto serial y la librería PySerial.
 La idea básica es tomar mediciones de temperatura y luminosidad en una diversidad de lugares para posteriormente procesar esos datos y
 los de otros compañeros de clase.
@@ -11,6 +13,7 @@ Es un proyecto en el que pude profundizar conocimientos de python y arduino. Man
 procesamiento de datos, etc.
 Una interesante propuesta que dio mucho trabajo pero también mucha satisfacción.
 
+## Inglés/English:
 
 #### Project Resume:
 In this project we utiliced python and arduino. We connected them using the serial port and the PySerial library.
