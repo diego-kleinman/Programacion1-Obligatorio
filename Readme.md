@@ -16,7 +16,7 @@ Una interesante propuesta que dio mucho trabajo pero también mucha satisfacció
 ## Inglés/English:
 
 #### Project Resume:
-In this project we utiliced python and arduino. We connected them using the serial port and the PySerial library.
+In this project I utiliced python and arduino. I connected them using the serial port and the PySerial library.
 The basic idea was taking mesurements of temperature and luminosity in a variety of different places, then process that data and data from
 other classmates.
 The goal is to find the "best places" if for instance we wanted to put a solar panel.
